@@ -4,3 +4,5 @@
 2. it has good ui
 
 3.  <img src="./src/counter app.PNG" alt="" />
+
+4. abhi tak simple routing hui hai rat ko dynamic routing karunga
