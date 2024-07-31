@@ -17,6 +17,8 @@
       return (
         <>
 
+       
+
         <div className='bg-gray-600 text-lime-400 flex mx-auto items-center  flex-col w-[50%] my-9 rounded shadow-lg p-2 '>
 
         <div>  A simple   Counter</div>
