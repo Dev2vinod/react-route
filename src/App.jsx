@@ -1,15 +1,16 @@
 import { useState } from 'react'
 
 import './App.css'
-import Counter from './Counter'
+import Routes from './config/router-config/routes'
 
+    
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
-    <>
-     <Counter />
-    </>
+    
+     <Routes />
+    
   )
 }
 
