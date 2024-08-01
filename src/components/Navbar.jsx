@@ -26,7 +26,7 @@
                     <Link to='counter'>Counter</Link>
                 </li>
                 <li> 
-                    <Link to='product/1234abcder'>Product </Link>
+                    <Link to='product'>Product </Link>
                 </li>
                 
             </ul>

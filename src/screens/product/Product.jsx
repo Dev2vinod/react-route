@@ -54,6 +54,7 @@ import {useEffect  } from "react";
              rate={item.rating.rate}
              count={item.rating.count}
             category ={item.category}
+             id ={item.id}
             />
         }) :<h1>loading....</h1>}
         <Card/>
